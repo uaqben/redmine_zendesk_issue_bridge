@@ -1,1 +1,1 @@
-gem 'zendesk_api', '~> 1.13.4'
+gem 'zendesk_api', '~> 1.15.0'
